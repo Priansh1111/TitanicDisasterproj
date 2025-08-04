@@ -4,3 +4,4 @@ tensorflow
 os
 seaborn
 matplotlib.pyplot
+scikit-learn
